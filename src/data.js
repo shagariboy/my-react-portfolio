@@ -3,7 +3,7 @@ export const projects = [
     title: "YOLO Site",
     subtitle: "HTML, CSS and JavaScript",
     description:
-      "Built using HTML, CSS and JavaScript. Utilized a mobile-first design paradigm to deliver an intuitive, clean, and responsive website. Used the fetch API to call staff profie.",
+      "Built using HTML, CSS and JavaScript. Utilized a mobile-first design paradigm to deliver an intuitive, clean, and responsive website. Used the fetch API to call staff profile.",
     image: "./startup.gif",
     link: "https://casablanca-yolo.netlify.app/",
   },
