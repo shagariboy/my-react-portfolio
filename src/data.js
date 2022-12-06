@@ -31,6 +31,14 @@ export const projects = [
     image: "./ig.gif",
     link: "https://timely-eclair-755f70.netlify.app",
   },
+  {
+    title: "Interactive Rating Component",
+    subtitle: "SCSS & JavaScript",
+    description:
+      "An interactive rating component that handles user interactions & utilizing the DOM",
+    image: "./rt.gif",
+    link: "https://delightful-sunburst-264113.netlify.app/",
+  },
 ];
 
 export const testimonials = [
