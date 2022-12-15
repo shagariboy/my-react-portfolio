@@ -39,6 +39,14 @@ export const projects = [
     image: "./rt.gif",
     link: "https://delightful-sunburst-264113.netlify.app/",
   },
+  {
+    title: "Multi-step Form",
+    subtitle: "SCSS & JavaScript",
+    description:
+      "An interactive Multi-step form that handles user interactions",
+    image: "./1.gif",
+    link: "https://curious-frangollo-e57e52.netlify.app/",
+  },
 ];
 
 export const testimonials = [
