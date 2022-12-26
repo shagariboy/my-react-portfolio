@@ -47,6 +47,14 @@ export const projects = [
     image: "./1.gif",
     link: "https://curious-frangollo-e57e52.netlify.app/",
   },
+  {
+    title: "Tip calculator app",
+    subtitle: "SCSS & JavaScript",
+    description:
+      "A calculator that calculates the correct tip and total cost of the bill per person",
+    image: "./c.gif",
+    link: "https://peppy-syrniki-0339ad.netlify.app/",
+  },
 ];
 
 export const testimonials = [
