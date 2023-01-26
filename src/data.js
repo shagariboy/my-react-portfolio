@@ -55,6 +55,14 @@ export const projects = [
     image: "./c.gif",
     link: "https://peppy-syrniki-0339ad.netlify.app/",
   },
+  {
+    title: "Launch countdown timer",
+    subtitle: "React",
+    description:
+      "A live countdown timer that ticks down every second",
+    image: "./r-app.gif",
+    link: "https://idyllic-salmiakki-abba37.netlify.app/",
+  }
 ];
 
 export const testimonials = [
@@ -77,7 +85,8 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "HTML",
+  "TypeScript",
   "CSS",
   "Python",
+  "Git"
 ];
